@@ -22,7 +22,7 @@ and/or
 @InProceedings{wei2023sharpness,
     author    = {Wei, Zeming and Zhu, Jingyu and Zhang, Yihao},
     title     = {Sharpness-Aware Minimization Alone can Improve Adversarial Robustness},
-    booktitle = {ICML Workshop},
+    booktitle = {ICML 2023 Workshop on New Frontiers in Adversarial Machine Learning},
     year      = {2023}
 }
 ```
